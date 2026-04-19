@@ -14,4 +14,4 @@ The manual, first-come, first-served system for using private carrel rooms at UT
 |Zhang Yisha | A25CS4032|
 
 # Phase 1 - Project Proposal and Planning
-[Kanban Phase 1](github.com/users/ZalfaChayara/projects/1)
+Kanban Phase 1 <https://github.com/users/ZalfaChayara/projects/1>
